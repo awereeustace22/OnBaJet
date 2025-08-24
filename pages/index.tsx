@@ -6,4 +6,4 @@ export default function Home() {
     </div>
   );
 }
-Add pages/index.tsx
+
