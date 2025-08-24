@@ -1,0 +1,13 @@
+/ (repo root)
+├─ package.json
+├─ next.config.js
+├─ tsconfig.json
+├─ next-env.d.ts
+├─ pages/
+│  └─ index.tsx
+├─ components/
+│  └─ ui/...
+├─ styles/
+│  └─ globals.css
+└─ public/
+   └─ favicon.ico  (optional)
